@@ -298,6 +298,7 @@ main.contact section.contact-section {
     background: url("../media/photos/annie-spratt-yyXw1lGJypI-unsplash\ 1.png") no-repeat;
     background-size: 100%;
     width: 100%;
+    padding: 20px 0;
 }
 
 main.contact section.contact-section div.contact-box {
